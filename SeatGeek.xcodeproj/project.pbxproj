@@ -125,7 +125,6 @@
 		3E98D30D282338070004038A /* NetworkService */ = {
 			isa = PBXGroup;
 			children = (
-				3EC8986E282342F700E07B75 /* NetworkManager.swift */,
 				3EC9EB4828233AE900416368 /* NetworkError.swift */,
 				3EC9EB4028233A8D00416368 /* HTTPResponseHandler.swift.swift */,
 				3EC9EB4228233AA900416368 /* HTTPRequest.swift */,
@@ -192,6 +191,7 @@
 		3EC89875282344CC00E07B75 /* Managers */ = {
 			isa = PBXGroup;
 			children = (
+				3EC8986E282342F700E07B75 /* NetworkManager.swift */,
 				3EC8986C2823412A00E07B75 /* SessionManager.swift */,
 			);
 			path = Managers;
