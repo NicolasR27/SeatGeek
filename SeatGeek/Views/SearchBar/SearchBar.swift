@@ -1,5 +1,4 @@
 
-
 import SwiftUI
 
 struct SearchBar: UIViewRepresentable {
@@ -37,11 +36,4 @@ struct SearchBar: UIViewRepresentable {
         uiView.text = text
     }
 }
-//
-//  SearchBar.swift
-//  SeatGeek
-//
-//  Created by Nicolas Rios on 5/4/22.
-//
 
-import Foundation
