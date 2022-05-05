@@ -137,8 +137,6 @@
 			isa = PBXGroup;
 			children = (
 				3EC898712823437D00E07B75 /* Screens */,
-				3EC898722823438800E07B75 /* Settings */,
-				3EC89873282343A400E07B75 /* Events */,
 				3EC89874282343C300E07B75 /* SearchBar */,
 				3E98D30D282338070004038A /* NetworkService */,
 				3EC898702823436600E07B75 /* ImageView */,
@@ -157,6 +155,8 @@
 		3EC898712823437D00E07B75 /* Screens */ = {
 			isa = PBXGroup;
 			children = (
+				3EC89873282343A400E07B75 /* Events */,
+				3EC898722823438800E07B75 /* Settings */,
 			);
 			path = Screens;
 			sourceTree = "<group>";
